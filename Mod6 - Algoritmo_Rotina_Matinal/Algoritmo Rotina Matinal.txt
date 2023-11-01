@@ -1,0 +1,49 @@
+Algoritmo: Rotina Matinal
+
+Passo 1: Despertar
+   - Abra os olhos.
+   - Estique-se para acordar completamente.
+
+Passo 2: Levantar da Cama
+   - Saia da cama com cuidado.
+   - Coloque os pés no chão.
+
+Passo 3: Ir até o Banheiro
+   - Dirija-se ao banheiro.
+   - Abra a porta do banheiro e entre.
+
+Passo 4: Escovar os Dentes
+   - Pegue a escova de dentes e o creme dental.
+   - Aplique o creme dental na escova.
+   - Escove os dentes por pelo menos dois minutos.
+   - Enxágue a boca e a escova.
+
+Passo 5: Secar as Mãos e o Rosto
+   - Lave as mãos.
+   - Use uma toalha para secar as mãos e o rosto.
+
+Passo 6: Ir até a Cozinha
+   - Caminhe até a cozinha.
+
+Passo 7: Preparar um Café
+   - Pegue uma xícara.
+   - Prepare café fresco na cafeteira.
+   - Despeje o café na xícara.
+
+Passo 8: Preparar um Pão com Manteiga
+   - Pegue um pedaço de pão.
+   - Abra o pão ao meio.
+   - Passe manteiga em uma das metades do pão.
+   - Feche o pão.
+
+Passo 9: Fazer a Refeição Matinal
+   - Coloque o café e o pão preparado na mesa.
+   - Sente-se à mesa e sirva-se.
+   - Desfrute da refeição matinal.
+
+Passo 10: Fim da Rotina Matinal
+   - Quando terminar, limpe a mesa e a xícara.
+   - Lave os utensílios usados.
+   - Esteja pronto para começar o seu dia!
+
+Fim do Algoritmo
